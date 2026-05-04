@@ -1,0 +1,41 @@
+measurers/java.sh
+  9e32ba6ecfb20aee 1-124
+README.md
+  9e32ba6ecfb20aee 57,224
+lib/measure.sh
+  9e32ba6ecfb20aee 51-62
+tests/selftest.sh
+  9e32ba6ecfb20aee 119-143,260-272,907-912,1047-1065,1594
+kyzn
+  9e32ba6ecfb20aee 383,394-396
+measurers/csharp.sh
+  9e32ba6ecfb20aee 1-89
+lib/allowlist.sh
+  9e32ba6ecfb20aee 67-89
+lib/detect.sh
+  9e32ba6ecfb20aee 9,35-57,157-178,189-190
+lib/verify.sh
+  9e32ba6ecfb20aee 38-57,175-180,379-454
+CLAUDE.md
+  9e32ba6ecfb20aee 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "c2537fbcd989e961a3bab65eb196d1267304b834",
+  "prompts": {
+    "9e32ba6ecfb20aee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "94b81466-4429-4c8d-9e23-7ebc38c583b1",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "oldschoola",
+      "messages": [],
+      "total_additions": 577,
+      "total_deletions": 113,
+      "accepted_lines": 4769,
+      "overriden_lines": 0
+    }
+  }
+}
