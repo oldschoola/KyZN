@@ -1,0 +1,25 @@
+templates/conventions/java.md
+  9e32ba6ecfb20aee 1-27
+templates/conventions/csharp.md
+  9e32ba6ecfb20aee 1-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "98e21f64eeee1e6db607eb08eb60bf018e623d79",
+  "prompts": {
+    "9e32ba6ecfb20aee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "94b81466-4429-4c8d-9e23-7ebc38c583b1",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "oldschoola",
+      "messages": [],
+      "total_additions": 54,
+      "total_deletions": 0,
+      "accepted_lines": 54,
+      "overriden_lines": 0
+    }
+  }
+}
